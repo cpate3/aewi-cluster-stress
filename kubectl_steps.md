@@ -1,6 +1,4 @@
-#############################################
-WI EKS cluster service stack validation Plan
-#############################################
+# WI EKS cluster service stack validation Plan
 
 Production Ready Checklist for Clusters (Build Pipeline / Deployment pipeline / Image Registry /Monitoring Infrastructure / Shared Storage / Secrets management )
 
